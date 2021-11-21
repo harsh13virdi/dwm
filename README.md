@@ -8,3 +8,4 @@ My fork of suckless dwm
 3. mpd
 4. mpc
 5. ncmpcpp
+6. nerd fonts complete
